@@ -10,7 +10,7 @@ export default class Home extends React.Component {
     render() {
         return (
             <div>
-                <div onClick = {this.gotoPage}>homwaa</div>
+                <div onClick = {this.gotoPage}>小超官网</div>
                 <div onClick = {this.gotoPageFunc}>local</div>
             </div>
         )
